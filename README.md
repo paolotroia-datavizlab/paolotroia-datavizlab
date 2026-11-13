@@ -7,6 +7,9 @@ focus on SQL, BigQuery and Python.
 
 ## Projects
 
+**[Trenord App Reviews](https://trenord-review-analysis.streamlit.app)**  
+An analysis of 6,951 Italian Google Play reviews of the Trenord app, grouped into topics with BERTopic, with a dashboard showing what users complain about. The code and notebooks are public in [trenord-reviews-bertopic](https://github.com/paolotroia-datavizlab/trenord-reviews-bertopic).
+
 **[Seeing Analytics](https://seeinganalytics.com)**  
 A site that explains web analytics metrics with interactive visuals and real data. The queries and notebooks behind it are public in
 [seeing-analytics-data](https://github.com/paolotroia-datavizlab/seeing-analytics-data).
@@ -16,6 +19,7 @@ A site that explains web analytics metrics with interactive visuals and real dat
 - **Measurement:** GA4, Google Tag Manager, Adobe Analytics
 - **Consent:** OneTrust, Didomi
 - **Data:** BigQuery, SQL, Python
+- **NLP**: BERTopic, spaCy, sentence-transformers
 - **Reporting:** Data Studio, Power BI
 
 ## Contact
